@@ -1,0 +1,41 @@
+.Encabezado {
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+  }
+
+  
+.encabezado-img{
+    width: 10%;
+    display: inline-block;
+    margin-top: 1rem;
+     }
+
+     nav{
+        display: inline-block;
+        width: 70%;
+        
+    
+    
+    
+    .navbar{
+        list-style: none;
+        
+        
+    }
+    
+    .navbar li{
+        display: flex;
+        justify-content: left;
+        
+    }
+    
+    nav ul li a {
+        text-decoration: none;
+        font-size: 2.0 rem;
+        color: black;
+        font-family: 'Roboto', sans-serif;
+        margin-right: 50px;
+         }
+        
+         }
